@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BossRushREGEX/1.0.0": {
+        "runtime": {
+          "BossRushREGEX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BossRushREGEX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

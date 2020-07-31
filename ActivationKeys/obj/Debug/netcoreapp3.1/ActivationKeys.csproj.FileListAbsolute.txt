@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.genruntimeconfig.cache

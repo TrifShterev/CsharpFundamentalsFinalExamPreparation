@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Lovjhx3ytqzFrrymzY34rJg+Ov+L2x68WoPb8rGCiqo2xc9m904Wy3UiDrGVtmpZK1xxUq0tHQenvk2LnHsPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tshte\\source\\repos\\CsharpFundamentalsFinalExamPreparation\\Heroes of Code and Logic VIIDictionary\\Heroes of Code and Logic VIIDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tshte\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tshte\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\tshte\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\tshte\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

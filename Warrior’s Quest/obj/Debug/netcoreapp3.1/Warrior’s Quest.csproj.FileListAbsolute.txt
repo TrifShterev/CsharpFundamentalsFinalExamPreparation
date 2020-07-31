@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\bin\Debug\netcoreapp3.1\Warrior’s Quest.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\bin\Debug\netcoreapp3.1\Warrior’s Quest.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\bin\Debug\netcoreapp3.1\Warrior’s Quest.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\bin\Debug\netcoreapp3.1\Warrior’s Quest.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\bin\Debug\netcoreapp3.1\Warrior’s Quest.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\bin\Debug\netcoreapp3.1\Warrior’s Quest.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Warrior’s Quest\obj\Debug\netcoreapp3.1\Warrior’s Quest.genruntimeconfig.cache

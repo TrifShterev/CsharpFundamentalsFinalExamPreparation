@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\bin\Debug\netcoreapp3.1\Hero RecruitmentDict.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\bin\Debug\netcoreapp3.1\Hero RecruitmentDict.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\bin\Debug\netcoreapp3.1\Hero RecruitmentDict.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\bin\Debug\netcoreapp3.1\Hero RecruitmentDict.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\bin\Debug\netcoreapp3.1\Hero RecruitmentDict.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\bin\Debug\netcoreapp3.1\Hero RecruitmentDict.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Hero RecruitmentDict\obj\Debug\netcoreapp3.1\Hero RecruitmentDict.genruntimeconfig.cache

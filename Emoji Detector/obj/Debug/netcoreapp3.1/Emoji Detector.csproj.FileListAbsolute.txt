@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.genruntimeconfig.cache

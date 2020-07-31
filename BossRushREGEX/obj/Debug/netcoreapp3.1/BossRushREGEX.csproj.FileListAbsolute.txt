@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\bin\Debug\netcoreapp3.1\BossRushREGEX.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\bin\Debug\netcoreapp3.1\BossRushREGEX.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\bin\Debug\netcoreapp3.1\BossRushREGEX.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\bin\Debug\netcoreapp3.1\BossRushREGEX.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\bin\Debug\netcoreapp3.1\BossRushREGEX.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\bin\Debug\netcoreapp3.1\BossRushREGEX.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\BossRushREGEX\obj\Debug\netcoreapp3.1\BossRushREGEX.genruntimeconfig.cache

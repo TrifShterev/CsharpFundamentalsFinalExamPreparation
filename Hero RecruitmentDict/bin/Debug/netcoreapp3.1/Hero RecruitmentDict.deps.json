@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hero RecruitmentDict/1.0.0": {
+        "runtime": {
+          "Hero RecruitmentDict.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hero RecruitmentDict/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

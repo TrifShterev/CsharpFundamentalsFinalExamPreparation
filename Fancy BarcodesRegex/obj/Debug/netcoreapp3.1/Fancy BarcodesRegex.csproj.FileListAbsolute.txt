@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\bin\Debug\netcoreapp3.1\Fancy BarcodesRegex.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\bin\Debug\netcoreapp3.1\Fancy BarcodesRegex.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\bin\Debug\netcoreapp3.1\Fancy BarcodesRegex.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\bin\Debug\netcoreapp3.1\Fancy BarcodesRegex.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\bin\Debug\netcoreapp3.1\Fancy BarcodesRegex.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\bin\Debug\netcoreapp3.1\Fancy BarcodesRegex.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fancy BarcodesRegex\obj\Debug\netcoreapp3.1\Fancy BarcodesRegex.genruntimeconfig.cache

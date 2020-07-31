@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Heroes of Code and Logic VIIDictionary\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VIIDictionary.genruntimeconfig.cache
