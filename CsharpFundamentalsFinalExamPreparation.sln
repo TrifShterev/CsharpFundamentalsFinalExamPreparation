@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero RecruitmentDict", "Her
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message TranslatorREGEX", "Message Translator\Message TranslatorREGEX.csproj", "{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikulden’s Charity", "Nikulden’s Charity\Nikulden’s Charity.csproj", "{610A54E1-A635-4C27-9B8E-A416ED1F9FDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610A54E1-A635-4C27-9B8E-A416ED1F9FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610A54E1-A635-4C27-9B8E-A416ED1F9FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610A54E1-A635-4C27-9B8E-A416ED1F9FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610A54E1-A635-4C27-9B8E-A416ED1F9FDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

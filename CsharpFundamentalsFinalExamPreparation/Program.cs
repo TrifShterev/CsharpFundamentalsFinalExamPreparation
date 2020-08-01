@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
+
 namespace Some_Useful_Methods
 {
     class Program
@@ -19,13 +21,13 @@ namespace Some_Useful_Methods
 
             return str;
         }
-        private static string RemovingPartsOfAString(string activationKey, string[] instructions)
+        private static string RemovingPartsOfAString(string str, string[] instructions)
         {
             int startIndexToSlice = int.Parse(instructions[1]);
             int endIndexToGet = int.Parse(instructions[2]);
-            int countOfSymbolsToRemove = endIndexToGet - startIndexToSlice;
-            activationKey = activationKey.Remove(startIndexToSlice, countOfSymbolsToRemove);
-            return activationKey;
+            int countOfSymbolsToRemove = (endIndexToGet - startIndexToSlice)+1;
+            str = str.Remove(startIndexToSlice, countOfSymbolsToRemove);
+            return str;
         }
 
         static string MakesPartOfStringToUpperCases(int startIndex, int endIndex, string rawString)
@@ -79,6 +81,27 @@ namespace Some_Useful_Methods
             var temp = list[index];
             list[index] = list[newIndex];
             list[newIndex] = temp;
+        }
+        private static void EncryptingByASCIIToNumbers(Match message)
+        {
+            List<int> numbers = new List<int>();
+            var wordToEncrypt = message.Groups["message"].ToString();
+            for (int j = 0; j < wordToEncrypt.Length; j++)
+            {
+                numbers.Add(wordToEncrypt[j]);
+
+            }
+            Console.WriteLine($"{message.Groups["command"]}: {String.Join(' ', numbers)}");
+        }
+        private static void SumsSubstringByASCII(string message, int startIndextToSum, int endIndexToSum)
+        {
+            List<int> numbers = new List<int>();
+            var substring = message.Substring(startIndextToSum, (endIndexToSum - startIndextToSum) + 1);
+            for (int i = 0; i < substring.Length; i++)
+            {
+                numbers.Add(substring[i]);
+            }
+            Console.WriteLine(numbers.Sum());
         }
     }
 
