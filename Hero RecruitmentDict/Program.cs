@@ -63,10 +63,10 @@ namespace Hero_RecruitmentDict
 
             }
             heroes = heroes.OrderByDescending(kvp => kvp.Value.Count).ThenBy(x => x.Key).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+            Console.WriteLine("Heroes:");
             foreach (var item in heroes)
-            {
-                Console.WriteLine("Heroes: ");
-                Console.WriteLine($"=={item.Key}: {string.Join(", ",item.Value)}");
+            {               
+                Console.WriteLine($"== {item.Key}: {string.Join(", ",item.Value)}");
             }
         }
     }

@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fancy BarcodesRegex", "Fanc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heroes of Code and Logic VIIDictionary", "Heroes of Code and Logic VIIDictionary\Heroes of Code and Logic VIIDictionary.csproj", "{B279FEB8-A155-4462-AE32-88DE63897566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warrior’s Quest", "Warrior’s Quest\Warrior’s Quest.csproj", "{2035E9A7-D5FE-47C0-9EFE-71B5449D081D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warrior’s Quest", "Warrior’s Quest\Warrior’s Quest.csproj", "{2035E9A7-D5FE-47C0-9EFE-71B5449D081D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossRushREGEX", "BossRushREGEX\BossRushREGEX.csproj", "{39D9D6F6-F4FC-4C76-AE43-BBFD6BE259C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BossRushREGEX", "BossRushREGEX\BossRushREGEX.csproj", "{39D9D6F6-F4FC-4C76-AE43-BBFD6BE259C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero RecruitmentDict", "Hero RecruitmentDict\Hero RecruitmentDict.csproj", "{5C21862E-0181-4A9B-B491-EF3172C3E6F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero RecruitmentDict", "Hero RecruitmentDict\Hero RecruitmentDict.csproj", "{5C21862E-0181-4A9B-B491-EF3172C3E6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message TranslatorREGEX", "Message Translator\Message TranslatorREGEX.csproj", "{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{5C21862E-0181-4A9B-B491-EF3172C3E6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C21862E-0181-4A9B-B491-EF3172C3E6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C21862E-0181-4A9B-B491-EF3172C3E6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D7F1CE-08BD-4403-B27C-3A98A0F00A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

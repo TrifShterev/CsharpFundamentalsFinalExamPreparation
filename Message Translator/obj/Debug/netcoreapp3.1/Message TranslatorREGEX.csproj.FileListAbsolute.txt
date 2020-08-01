@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\bin\Debug\netcoreapp3.1\Message TranslatorREGEX.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\bin\Debug\netcoreapp3.1\Message TranslatorREGEX.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\bin\Debug\netcoreapp3.1\Message TranslatorREGEX.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\bin\Debug\netcoreapp3.1\Message TranslatorREGEX.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\bin\Debug\netcoreapp3.1\Message TranslatorREGEX.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\bin\Debug\netcoreapp3.1\Message TranslatorREGEX.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Message Translator\obj\Debug\netcoreapp3.1\Message TranslatorREGEX.genruntimeconfig.cache
