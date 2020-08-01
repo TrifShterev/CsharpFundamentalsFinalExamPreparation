@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\bin\Debug\netcoreapp3.1\Nikulden’s meals.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\bin\Debug\netcoreapp3.1\Nikulden’s meals.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\bin\Debug\netcoreapp3.1\Nikulden’s meals.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\bin\Debug\netcoreapp3.1\Nikulden’s meals.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\bin\Debug\netcoreapp3.1\Nikulden’s meals.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\bin\Debug\netcoreapp3.1\Nikulden’s meals.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Nikulden’s meals\obj\Debug\netcoreapp3.1\Nikulden’s meals.genruntimeconfig.cache
