@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Message TranslatorREGEX", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikulden’s Charity", "Nikulden’s Charity\Nikulden’s Charity.csproj", "{610A54E1-A635-4C27-9B8E-A416ED1F9FDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikulden’s meals", "Nikulden’s meals\Nikulden’s meals.csproj", "{60F7D959-B9DB-451B-8A71-EB07DFDA7114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikulden’s meals", "Nikulden’s meals\Nikulden’s meals.csproj", "{60F7D959-B9DB-451B-8A71-EB07DFDA7114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inbox ManagerDict", "Inbox ManagerDict\Inbox ManagerDict.csproj", "{2E5FB621-3F17-441F-8090-1080472A8D04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{60F7D959-B9DB-451B-8A71-EB07DFDA7114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F7D959-B9DB-451B-8A71-EB07DFDA7114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F7D959-B9DB-451B-8A71-EB07DFDA7114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5FB621-3F17-441F-8090-1080472A8D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5FB621-3F17-441F-8090-1080472A8D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5FB621-3F17-441F-8090-1080472A8D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5FB621-3F17-441F-8090-1080472A8D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

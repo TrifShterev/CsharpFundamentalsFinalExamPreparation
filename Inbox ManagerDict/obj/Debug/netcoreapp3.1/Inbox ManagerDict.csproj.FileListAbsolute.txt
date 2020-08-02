@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\bin\Debug\netcoreapp3.1\Inbox ManagerDict.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\bin\Debug\netcoreapp3.1\Inbox ManagerDict.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\bin\Debug\netcoreapp3.1\Inbox ManagerDict.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\bin\Debug\netcoreapp3.1\Inbox ManagerDict.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\bin\Debug\netcoreapp3.1\Inbox ManagerDict.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\bin\Debug\netcoreapp3.1\Inbox ManagerDict.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Inbox ManagerDict\obj\Debug\netcoreapp3.1\Inbox ManagerDict.genruntimeconfig.cache
