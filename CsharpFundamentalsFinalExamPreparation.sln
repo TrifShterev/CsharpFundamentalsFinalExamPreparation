@@ -31,6 +31,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikulden’s meals", "Nikul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inbox ManagerDict", "Inbox ManagerDict\Inbox ManagerDict.csproj", "{2E5FB621-3F17-441F-8090-1080472A8D04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationREGEX", "Registration\RegistrationREGEX.csproj", "{B9878865-1117-4E11-9FDC-D52D81113C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email Validator", "Email Validator\Email Validator.csproj", "{9C7295BF-9D6B-4856-87D9-5380520F6F21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{2E5FB621-3F17-441F-8090-1080472A8D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E5FB621-3F17-441F-8090-1080472A8D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E5FB621-3F17-441F-8090-1080472A8D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9878865-1117-4E11-9FDC-D52D81113C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9878865-1117-4E11-9FDC-D52D81113C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9878865-1117-4E11-9FDC-D52D81113C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9878865-1117-4E11-9FDC-D52D81113C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7295BF-9D6B-4856-87D9-5380520F6F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7295BF-9D6B-4856-87D9-5380520F6F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7295BF-9D6B-4856-87D9-5380520F6F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7295BF-9D6B-4856-87D9-5380520F6F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

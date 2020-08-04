@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\bin\Debug\netcoreapp3.1\RegistrationREGEX.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\bin\Debug\netcoreapp3.1\RegistrationREGEX.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\bin\Debug\netcoreapp3.1\RegistrationREGEX.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\bin\Debug\netcoreapp3.1\RegistrationREGEX.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\bin\Debug\netcoreapp3.1\RegistrationREGEX.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\bin\Debug\netcoreapp3.1\RegistrationREGEX.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Registration\obj\Debug\netcoreapp3.1\RegistrationREGEX.genruntimeconfig.cache

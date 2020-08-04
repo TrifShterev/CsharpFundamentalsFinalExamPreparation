@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.genruntimeconfig.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.csprojAssemblyReference.cache

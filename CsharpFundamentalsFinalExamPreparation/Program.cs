@@ -103,6 +103,24 @@ namespace Some_Useful_Methods
             }
             Console.WriteLine(numbers.Sum());
         }
+        private static string ReplacingCharInString(string email, char symbol)
+        {
+            while (email.Contains(symbol))
+            {
+               email= email.Replace(symbol, '-');
+            }
+            return email;
+        }
+        private static void EncryptStringByASCII(string email)
+        {
+            List<int> numbers = new List<int>();
+
+            for (int i = 0; i < email.Length; i++)
+            {
+                numbers.Add(email[i]);
+            }
+            Console.WriteLine(String.Join(" ", numbers));
+        }
     }
 
 }
