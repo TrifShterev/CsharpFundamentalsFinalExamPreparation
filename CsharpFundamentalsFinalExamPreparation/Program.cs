@@ -103,13 +103,13 @@ namespace Some_Useful_Methods
             }
             Console.WriteLine(numbers.Sum());
         }
-        private static string ReplacingCharInString(string email, char symbol)
+        private static string ReplacingCharInString(string str, char symbol)
         {
-            while (email.Contains(symbol))
+            while (str.Contains(symbol))
             {
-               email= email.Replace(symbol, '-');
+               str= str.Replace(symbol, '-');
             }
-            return email;
+            return str;
         }
         private static void EncryptStringByASCII(string email)
         {

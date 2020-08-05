@@ -13,7 +13,7 @@ namespace Registration
             for (int i = 0; i < n; i++)
             {
                 string input = Console.ReadLine();
-                Match match = Regex.Match(input,@"([U][$])(?<name>[A-Z][a-z]{2,})(\1)([P][@][$])(?<password>[A-za-z]{4,}[0-9]+)(\3)");
+                Match match = Regex.Match(input,@"([U][$])(?<name>[A-Z][a-z]{2,})(\1)([P][@][$])(?<password>[A-za-z]{3,}[0-9]+)(\3)");
 
                 if (match.Success)
                 {
