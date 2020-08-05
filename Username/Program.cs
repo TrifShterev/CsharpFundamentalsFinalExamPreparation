@@ -17,12 +17,12 @@ namespace Username
                 switch (command[0])
                 {
                     case "Case":
-                        if (command[1]=="Upper")
+                        if (command[1] == "upper")
                         {
                             username = username.ToUpper();
                             Console.WriteLine(username);
                         }
-                        else
+                        else if(command[1] == "lower")
                         {
                             username = username.ToLower();
                             Console.WriteLine(username);
@@ -31,20 +31,20 @@ namespace Username
                     case "Reverse":
                         int startIndex = int.Parse(command[1]);
                         int endIndex = int.Parse(command[2]);
-                        if (startIndex>=0&&endIndex<username.Length)
+                        if (startIndex >= 0 && endIndex <= username.Length-1)
                         {
                             int length = endIndex - startIndex;
-                            var substring = username.Substring(startIndex, length).Reverse().ToList();
+                            var substring = username.Substring(startIndex, length + 1).Reverse().ToList();
                             Console.WriteLine(String.Concat(substring));
                         }
                         break;
                     case "Cut":
                         if (username.Contains(command[1]))
                         {
-                            
-                                username = username.Remove(username.IndexOf(command[1]),command[1].Length);
+
+                            username = username.Remove(username.IndexOf(command[1]), command[1].Length);
                             Console.WriteLine(username);
-                            
+
                         }
                         else
                         {
@@ -53,8 +53,12 @@ namespace Username
                         break;
                     case "Replace":
                         var symbol = char.Parse(command[1]);
-                        username = ReplacingCharInString(username, symbol);
-                        Console.WriteLine(username);
+                        if (username.Contains(symbol))
+                        {
+                            username = ReplacingCharInString(username, symbol);
+                            Console.WriteLine(username);
+                        }
+                       
                         break;
                     case "Check":
                         var symbolToCheckFor = char.Parse(command[1]);

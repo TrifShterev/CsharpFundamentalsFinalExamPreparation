@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Followers.Dict", "Followers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordREGEXImportant", "PasswordREGEXImportant\PasswordREGEXImportant.csproj", "{ABFDFDAF-2836-400D-9EE1-8EC257B80FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Username", "Username\Username.csproj", "{6735F0A4-FFE9-45E5-9EDC-72453AF9DB48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsernameTxTConcat", "Username\UsernameTxTConcat.csproj", "{6735F0A4-FFE9-45E5-9EDC-72453AF9DB48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
