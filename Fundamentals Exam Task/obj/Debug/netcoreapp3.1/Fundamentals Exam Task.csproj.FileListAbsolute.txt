@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\bin\Debug\netcoreapp3.1\Fundamentals Exam Task.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\bin\Debug\netcoreapp3.1\Fundamentals Exam Task.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\bin\Debug\netcoreapp3.1\Fundamentals Exam Task.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\bin\Debug\netcoreapp3.1\Fundamentals Exam Task.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\bin\Debug\netcoreapp3.1\Fundamentals Exam Task.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\bin\Debug\netcoreapp3.1\Fundamentals Exam Task.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\Fundamentals Exam Task\obj\Debug\netcoreapp3.1\Fundamentals Exam Task.genruntimeconfig.cache

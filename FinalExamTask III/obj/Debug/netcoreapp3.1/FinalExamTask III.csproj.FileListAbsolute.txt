@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\bin\Debug\netcoreapp3.1\FinalExamTask III.exe
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\bin\Debug\netcoreapp3.1\FinalExamTask III.deps.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\bin\Debug\netcoreapp3.1\FinalExamTask III.runtimeconfig.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\bin\Debug\netcoreapp3.1\FinalExamTask III.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\bin\Debug\netcoreapp3.1\FinalExamTask III.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\bin\Debug\netcoreapp3.1\FinalExamTask III.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.dll
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.pdb
+C:\Users\tshte\source\repos\CsharpFundamentalsFinalExamPreparation\FinalExamTask III\obj\Debug\netcoreapp3.1\FinalExamTask III.genruntimeconfig.cache
